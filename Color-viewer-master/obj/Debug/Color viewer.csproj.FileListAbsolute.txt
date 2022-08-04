@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Color-viewer-master\bin\Debug\Color viewer.exe.config
+C:\Users\ASUS\Desktop\Color-viewer-master\bin\Debug\Color viewer.exe
+C:\Users\ASUS\Desktop\Color-viewer-master\bin\Debug\Color viewer.pdb
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer_MarkupCompile.lref
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer.g.resources
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color_viewer.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer.exe
+C:\Users\ASUS\Desktop\Color-viewer-master\obj\Debug\Color viewer.pdb
